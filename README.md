@@ -1,19 +1,20 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jorge13v/Prueba/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/Jorge13v/Prueba/edit/master/README.md) yo solo soy una preba vale no me mires ok..
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Todo esto esta bien ejejej ...
+@octocat :+1: This PR looks great - it's ready to merge! :poop:
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# TEMA 1
+## TEMA2
+### TEMA 3
 
 - Bulleted
 - List
@@ -26,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://es.wikipedia.org/wiki/Wikipedia_en_catalán/).
 
 ### Jekyll Themes
 
@@ -35,3 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Texto alternativo](https://media.giphy.com/media/3o6fJe12xSATMsFEFW/giphy.gif)
