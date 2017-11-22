@@ -1,2 +1,10 @@
 ## URl de Google
-<https://www.google.es/search?as_lq=LOL.jpg>
+1. http://www.google.com/search?q=la+raiz+band
+2. https://www.google.com/search?as_oq="centro de enseñanza gregorio fernández"
+3. https://www.google.com/search?as_oq="gregorio fernández"+centro+enseñanza
+4. https://www.google.com/search?q=gregorio+fernandez&num=3
+5. https://www.google.com/search?q=league+of+legends&as_filetype=jpg
+6. http://www.google.com/search?q=bots&as_lq=euw.leagueoflegends.com
+7. http://www.google.com/search?q=hackers&as_qdr=r
+8. http://www.google.com/search?q=league+of+legends&as_filetype=jpg
+9. 
